@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-17
   Changes:
     - [item=blueprint_reader_blueprint-combinator] Change subgroup to circuit-input if SchallCircuitGroup is installed.
