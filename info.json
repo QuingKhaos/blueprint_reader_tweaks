@@ -1,14 +1,14 @@
 {
   "name": "blueprint_reader_tweaks",
   "title": "Blueprint reader combinator tweaks",
-  "description": "Opinionated tweaks to blueprint reader combinator.",
+  "description": "[DEPRECATED] Functionality migrated to QuingKhaos' Circuitry Tweaks.",
   "author": "QuingKhaos",
-  "homepage": "",
-  "version": "1.0.0",
+  "homepage": "https://discord.gg/SYmkaDjFCt",
+  "version": "1.0.1",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.0",
-    "blueprint_reader >= 2.0.1",
-    "? SchallCircuitGroup >= 2.0.0"
+
+    "khaoscircuitry >= 1.5.0"
   ]
 }
